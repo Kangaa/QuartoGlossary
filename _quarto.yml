@@ -1,0 +1,13 @@
+project:
+  type: book
+
+book:
+  title: "Glossary Example Book"
+  chapters:
+    - index.qmd
+    - chapter-01.qmd
+    - chapter-02.qmd
+    - glossary.qmd
+
+filters:
+  - glossary

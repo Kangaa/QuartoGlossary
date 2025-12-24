@@ -1,0 +1,42 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Glossary Example Book",
+    "section": "",
+    "text": "0.1 Overview\nThis Quarto book demonstrates collecting glossary terms across multiple chapters.\nContinue to Chapter 1 for more Filter usage.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Glossary Example Book</span>"
+    ]
+  },
+  {
+    "objectID": "chapter-01.html",
+    "href": "chapter-01.html",
+    "title": "2  Chapter 1: Filters",
+    "section": "",
+    "text": "Filters are a core part of Quarto publishing.\nWhen you apply a Filter pipeline, Quarto transforms content during rendering.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Chapter 1: Filters</span>"
+    ]
+  },
+  {
+    "objectID": "chapter-02.html",
+    "href": "chapter-02.html",
+    "title": "3  Chapter 2: Projects",
+    "section": "",
+    "text": "A Quarto project can include many chapters and shared metadata.\nThis chapter references the Filter term again to confirm linking.",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Chapter 2: Projects</span>"
+    ]
+  },
+  {
+    "objectID": "glossary.html",
+    "href": "glossary.html",
+    "title": "4  Glossary",
+    "section": "",
+    "text": "Quarto\nAn open-source scientific and technical publishing system.\n\n\nFilter\nA script that transforms a document during rendering.",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Glossary</span>"
+    ]
+  }
+]

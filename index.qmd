@@ -1,0 +1,9 @@
+---
+title: "Glossary Example Book"
+---
+
+## Overview
+
+This [Quarto]{.glossary} book demonstrates collecting glossary terms across multiple chapters.
+
+Continue to Chapter 1 for more [Filter]{.glossary} usage.

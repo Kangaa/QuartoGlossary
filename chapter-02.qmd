@@ -1,0 +1,7 @@
+---
+title: "Chapter 2: Projects"
+---
+
+A [Quarto]{.glossary} project can include many chapters and shared metadata.
+
+This chapter references the [Filter]{.glossary} term again to confirm linking.

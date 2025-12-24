@@ -1,0 +1,13 @@
+---
+title: "Glossary"
+glossary-include: auto
+glossary-sort: yaml
+glossary:
+  - term: Quarto
+    definition: "An open-source scientific and technical publishing system."
+  - term: Filter
+    definition: "A script that transforms a document during rendering."
+---
+
+::: {#glossary}
+:::

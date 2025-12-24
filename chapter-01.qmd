@@ -1,0 +1,7 @@
+---
+title: "Chapter 1: Filters"
+---
+
+Filters are a core part of [Quarto]{.glossary} publishing.
+
+When you apply a [Filter pipeline]{.glossary term="Filter"}, Quarto transforms content during rendering.
