@@ -4,10 +4,8 @@ Collect inline glossary terms and link them to a generated glossary section. Def
 
 ## Installing
 
-Replace `<github-organization>` with your GitHub organization.
-
 ```bash
-quarto add <github-organization>/glossary
+quarto add Kangaa/glossary
 ```
 
 This installs the extension under `_extensions`. If you're using version control, check in this directory.
